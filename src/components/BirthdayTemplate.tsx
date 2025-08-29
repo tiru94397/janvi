@@ -236,26 +236,25 @@ export function BirthdayTemplate({
             </h3>
             <div className="max-w-3xl mx-auto space-y-4">
               <p className="text-xl text-gray-700 leading-relaxed italic">
-                "Janvi, you mean absolutely everything to me. You are not just my best friend, 
-                you are my soul sister, my constant support, and the brightest star in my life."
+                "Nani,u mean everything to me u one of the best kinda people I've ever got"
+
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Watching you grow into this incredible author and seeing your dedication to your career 
-                fills my heart with so much pride. Your talent knows no bounds, and your determination 
-                inspires me every single day. From reading books together to celebrating your published 
-                work "Unbreakable Ties," every moment with you has been a treasure.
+                Watching u grow into this incredible author and seeing ur working hard to achieve ur goals fills my heart with so much pride.from listening u talk bout books to celebrating ur published work is amazing and me being throughout this journey is amazing (though u made me wait my whole life for it)everything moment with u has been and will always be a treasure
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                You have this amazing way of making everything better just by being yourself. Your love 
-                for your mother, your passion for reading, your serious approach to your career - 
-                everything about you makes you the most wonderful person I know.
+                U got a way of making everything better just by being ur self and joking around..which I love it 
+                Just everything about u makes u the wonderful person I know..to me ur one of a kind and no further arguments needed 
+               [I'm ready to fight everyone who doesn't agree with this ;) ]
+
               </p>
               <p className="text-xl font-semibold text-pink-700">
-                Happy 18th Birthday, my dearest Janvi! Here's to many more years of friendship, 
-                laughter, books, and beautiful memories together! 💕
+                Happy 18 nani..wish u all the success u deserve...
+
               </p>
               <p className="text-lg text-gray-600 mt-6">
-                With all my love,<br />
+                With pyaar
+               Ur nani,<br />
                 <span className="font-semibold text-pink-600">{fromFriend}</span>
               </p>
             </div>
