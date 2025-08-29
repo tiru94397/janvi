@@ -193,15 +193,7 @@ export function BirthdayTemplate({
           {/* Right Side - Personal Details */}
           <div className="space-y-6">
             {/* Favorite Person */}
-            <Card className="p-6 bg-white/80 backdrop-blur-sm border-pink-200 shadow-xl">
-              <div className="flex items-center gap-3 mb-3">
-                <div className="p-2 bg-pink-100 rounded-full">
-                  <Heart className="w-5 h-5 text-pink-600" />
-                </div>
-                <h3 className="text-xl font-semibold text-gray-800">Favorite Person</h3>
-              </div>
-              <p className="text-lg text-gray-700">{favoritePerson}</p>
-            </Card>
+            
 
             {/* Hobby */}
             <Card className="p-6 bg-white/80 backdrop-blur-sm border-pink-200 shadow-xl">
