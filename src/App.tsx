@@ -13,14 +13,7 @@ export default function App() {
         authoredBook="Unbreakable Ties"
         fromFriend="Geetha Sukeerthi"
       />
-
-      {/* 🎵 Birthday Song Player */}
-      <div style={{ textAlign: "center", marginTop: "20px" }}>
-        <audio controls autoPlay loop>
-          <source src="/happy-birthday.mp3" type="audio/mpeg" />
-          Your browser does not support the audio element.
-        </audio>
-      </div>
+      {/* Removed the default audio player */}
     </>
   );
 }
